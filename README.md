@@ -8,10 +8,6 @@ A simple calculator app built using Jetpack Compose for Android.
 - Clean and minimal UI using Jetpack Compose.
 - Responsive and smooth user experience.
 
-## Screenshots
-
-(Add screenshots here if available)
-
 ## Installation
 
 1. Clone the repository:
